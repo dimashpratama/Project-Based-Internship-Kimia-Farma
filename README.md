@@ -1,10 +1,12 @@
 # Project-Based-Internship-Kimia-Farma
 Deskripsi Proyek
+
 Proyek ini merupakan bagian dari Virtual Internship Experience (VIX) Kimia Farma — Big Data Analytics yang diselenggarakan oleh Rakamin Academy.
 Tujuan utama proyek ini adalah untuk menganalisis kinerja bisnis Kimia Farma pada periode tahun 2020–2023 menggunakan Google BigQuery dan Google Looker Studio.
 Melalui proyek ini, dilakukan proses pengolahan data transaksi, cabang, dan produk Kimia Farma, kemudian menghasilkan dashboard interaktif yang menampilkan performa pendapatan, profit, serta kepuasan pelanggan berdasarkan data historis.
 
 Tujuan Analisis
+
 Mengevaluasi kinerja bisnis Kimia Farma dari tahun 2020 hingga 2023.
 Melakukan pengolahan data (data cleaning, joining, dan agregasi) dari beberapa sumber dataset.
 Membuat tabel analisis terintegrasi yang berisi informasi lengkap dari seluruh dataset.
@@ -15,6 +17,7 @@ Cabang dengan rating terbaik dan terburuk
 Distribusi profit berdasarkan wilayah Indonesia
 
 Dataset yang Digunakan
+
 Keempat dataset berikut diunggah ke Google BigQuery ke dalam dataset kimia_farma:
 Nama Dataset	Keterangan
 kf_final_transaction.csv	Data transaksi penjualan Kimia Farma (ID transaksi, harga, diskon, rating, dll.)
